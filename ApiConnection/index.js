@@ -16,4 +16,3 @@ axios("https://api.tvmaze.com/shows")
         </div>`
     }
 })
-
